@@ -2,3 +2,5 @@
 Lab4
 Blake Galbavy Lab 4 (learning git).
 this is in first branch
+
+Partner: Johnathan
